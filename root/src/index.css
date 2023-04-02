@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: 'Sofia Pro', monospace;
+  font-weight: 300;
+  box-sizing: border-box;
+}
+
+p {
+  margin: 0;
+}
+
+body {
+  overflow-x: hidden;
+  margin: 0;
+}
